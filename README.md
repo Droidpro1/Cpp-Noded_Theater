@@ -2,7 +2,7 @@
 
 Problem: I have been hired by the owner of a very small movie theater to develop the backend for an online ticket reservation system. The program should display the current seating arrangement and allow the patron to select seats. A report should be generated at the end of the program to specify for each individual auditorium and overall for all auditoriums how many seats were sold/unsold and how much money was earned.
 
-Details: The theater is stored as an Auditorium object. This object essentially acts as a "2D linked list" of TheaterSeat nodes derived from the baseNode class, and is created by reading a file in the project directory named "A1.txt". Displaying A1.txt would be as follows: 
+Details: The theater is stored as an Auditorium object. This object essentially acts as a "2D linked list" of TheaterSeat nodes derived from the baseNode class, and is created by reading a file in the project directory named "A1.txt". This should be placed in the directory of your executable. Displaying A1.txt would be as follows: 
          
 
       ABCDEFGHIJKLMNOPQRST
