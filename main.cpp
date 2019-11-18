@@ -116,4 +116,5 @@ int main(){
     }while(userInput!="2");
     a.displayReport();
     a.writeBack();
+    return 0;
 }
